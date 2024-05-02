@@ -16,7 +16,6 @@
 <p>
 I am a Software Engineer in my second year at Algebra University. So far, I have been working in C++, C#, and Java. In each, I have completed small projects. At the moment, I am working on 4 medium projects, which repositories are listed below. I am looking for job or student internships that involve game development, with a primary focus on C++ or C#. 
 </p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/lorena-kova%C4%8Di%C4%87/"><img title="Linkedin" height="25" src="materials/linkedin.svg"></a>
 <a href="mailto:lkovac4@algebra.hr"><img title="Mail" height="25" src="materials/mail.svg"></a>
@@ -28,7 +27,56 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 
 ---
 
+<div class="whatIuse">
+<h2>
 
+  <p> 
+  <a><img title="C++" height="40" src="materials/cpp.svg"></a>
+  <a><img title="C#" height="40" src="materials/cSharp.svg"></a>
+  <a><img title="HTML5" height="40" src="materials/html5.svg"></a>
+  <a><img title="CSS" height="40" src="materials/css.svg"></a>
+  <a><img title="Javascript" height="40" src="materials/js.svg"></a>
+  <a><img title="xml" height="40" src="materials/xml.svg"></a>
+  <a><img title="Java" height="40" src="materials/java-original.svg"></a>
+  <a><img title="swift" height="40" src="materials/swift.svg"></a>
+  </p>
+
+  <p>
+<a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a>
+<a><img title="netbeans" height="40" src="materials/netbeans.png"></a>
+<a><img title="Visual Studio Code" height="40" src="materials/vscode.png"></a>
+<a><img title="Microsoft Visual Studio" height="40" src="materials/visualstudio.png"></a>
+<a><img title="InteliJ" height="40" src="materials/intellij.svg"></a>
+<a><img title="Rider" height="40" src="materials/rider.png"></a>
+<a><img title="CLion" height="40" src="materials/clion.svg"></a>
+<a><img title="xcode" height="40" src="materials/xcode.png"></a>
+  </p>
+
+  <p>
+<a><img title="GitHub" height="40" src="materials/github.svg"></a>
+<a><img title="Git" height="40" src="materials/git-original.svg"></a>
+<a><img title="homebrew" height="40" src="materials/homebrew.svg"></a>
+<a><img title="terminal" height="40" src="materials/terminal.svg"></a>
+<a><img title="linux" height="40" src="materials/linux.svg"></a>
+  </p>
+
+  <p>
+  <a><img title="tSQL" height="40" src="materials/tsql.svg"></a>
+    <a><img title="ssms" height="40" src="materials/ssms.png"></a>
+<a><img title="JSON" height="40" src="materials/json.svg"></a>
+  </p>
+
+  <p>Want to learn</p>
+  <p>
+<a><img title="GO" height="40" src="materials/go.svg"></a>
+<a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a>
+</p>
+</h2>
+</div>
+
+<div>
+
+</div>
 
 <div class="stats">
 <h2 align="Center" style="color:#da99f7") > Stats </h2>
@@ -49,25 +97,15 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 </div>
 
 <!-- <p>
-<code><img title="C++" height="25" src="materials/cpp.svg"></code>
-<code><img title="C#" height="25" src="materials/cSharp.svg"></code>
-<code><img title="HTML5" height="25" src="materials/html5.svg"></code>
-<code><img title="CSS" height="25" src="materials/css.svg"></code>
-<code><img title="Javascript" height="25" src="materials/js.svg"></code>
-<code><img title="GitHub" height="25" src="materials/github.svg"></code>
-<code><img title="Git" height="25" src="materials/git-original.svg"></code>
-<code><img title=".NetCore" height="25" src="materials/dotnetcore.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="materials/vscode.png"></code>
-<code><img title="Microsoft Visual Studio" height="25" src="materials/visualstudio.png"></code>
-<code><img title="Java" height="25" src="materials/java-original.svg"></code>
-<code><img title="JSON" height="25" src="materials/json.svg"></code>
-<code><img title="tSQL" height="25" src="materials/tsql.svg"></code>
-<code><img title="Rider" height="25" src="materials/rider.png"></code>
-<code><img title="CLion" height="25" src="materials/clion.svg"></code>
-<code><img title="InteliJ" height="25" src="materials/intellij.svg"></code>
-<code><img title="GO" height="25" src="materials/go.svg"></code>
-<code><img title="swift" height="25" src="materials/swift.svg"></code>
-<code><img title="xcode" height="25" src="materials/xcode.png"></code>
+
+
+
+
+
+
+
+
+
 </p> -->
 
 <!--

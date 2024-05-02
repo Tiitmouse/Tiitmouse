@@ -13,13 +13,13 @@
 <h2 align="Center" > Stats </h2>
 <div align=left>
     <a href="https://github.com/Tiitmouse/">
-      <img height=300 width=400 align="left" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
+      <img height=350 width=450 align="left" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
     </a>
 
   </div>
     <div align=right>
     <a href="https://github.com/Tiitmouse/">
-      <img height=300 width=328 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+      <img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
     </a>
   </div>
     </a>

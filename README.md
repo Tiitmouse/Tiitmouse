@@ -8,31 +8,26 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D898F7&center=true&random=false&width=435&lines=Hi;Student+at+Algera+university;Studying+software+Engineering" alt="Typing SVG" /></a>
 </p>
 
-
 ---
 
-<div align=center>
+<h2 align="Center" > Stats </h2>
+<div align=left>
     <a href="https://github.com/Tiitmouse/">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
+      <img height=200 width=300 align="left" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
     </a>
+
+  </div>
+    <div align=right>
+    <a href="https://github.com/Tiitmouse/">
+      <img height=200 width=228 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+    </a>
+  </div>
+    </a>
+
   </div>
   <div align=center>
     <a href="https://github.com/Tiitmouse/">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
-    </a>
-  </div>
-    <div align=center>
-    <a href="https://github.com/Tiitmouse/">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-    </a>
-  </div>
-
-
-
-
-
-
-
 
 <!-- <p>
 <code><img title="C++" height="25" src="materials/cpp.svg"></code>
@@ -56,8 +51,5 @@
 <code><img title="xcode" height="25" src="materials/xcode.png"></code>
 </p> -->
 
-
 <!--
 **Tiitmouse/Tiitmouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Tiitmouse">
-    <img src="/Users/lorena/Documents/projekti/github_profile/Tiitmouse/materials/lk.png" alt="Lorena Kovacic" />
+    <img src="materials/lk.png" alt="Lorena Kovacic" />
 </a>
 </p>
 

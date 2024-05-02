@@ -1,34 +1,40 @@
+
+<div class="header">
 <p align="center">
   <a href="https://github.com/Tiitmouse">
     <img src="materials/lk.png" alt="Lorena Kovacic" />
 </a>
 </p>
-
 <p style="text-align: center;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D898F7&center=true&random=false&width=435&lines=Hi;Student+at+Algera+university;Studying+software+Engineering" alt="Typing SVG" /></a>
 </p>
+</div>
 
 ---
 
-<h2 align="Center" > Stats </h2>
-<div align=left>
-    <a href="https://github.com/Tiitmouse/">
-      <img height=350 width=450 align="left" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
-    </a>
+<div class="aboutMe">
+<p>
+I am a Software Engineer in my second year at Algebra University. So far, I have been working in C++, C#, and Java. In each, I have completed small projects. At the moment, I am engaged in 4 larger projects, which repositories are listed below. I am looking for job or student internships that involve game development, with a primary focus on C++ or C#.
+</p>
+</div>
 
+<div class="stats">
+<h2 align="Center" style="color:#da99f7") > Stats </h2>
+  <div align=left>
+      <a href="https://github.com/Tiitmouse/">
+        <img height=350 width=450 align="left" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
+      </a>
   </div>
-    <div align=right>
-    <a href="https://github.com/Tiitmouse/">
-      <img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-    </a>
-  </div>
-    </a>
-
+  <div align=right>
+      <a href="https://github.com/Tiitmouse/">
+        <img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+      </a>
   </div>
   <div align=center>
-    <a href="https://github.com/Tiitmouse/">
-      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
-
+      <a href="https://github.com/Tiitmouse/">
+        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
+  </div>
+</div>
 <!-- <p>
 <code><img title="C++" height="25" src="materials/cpp.svg"></code>
 <code><img title="C#" height="25" src="materials/cSharp.svg"></code>

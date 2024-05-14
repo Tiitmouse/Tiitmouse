@@ -1,9 +1,3 @@
-<style>
-  a {
-    background: transparent;
-  }
-</style>
-
 <div class="header">
 <p align="center">
   <a href="https://github.com/Tiitmouse">
@@ -80,23 +74,14 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 <div align="center">
 <img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
 <br><br>
-<pre>
-   <p><a><img title="C++" height="40" src="materials/cpp.svg"></a><a><img title="C#" height="40" src="materials/cSharp.svg"></a><a><img title="HTML5" height="50" src="materials/html5.svg"></a><a><img title="CSS" height="55" src="materials/css.svg"></a><a><img title="Javascript" height="40" src="materials/js.svg"></a><a><img title="xml" height="40" src="materials/xml.svg"></a><a><img title="Java" height="40" src="materials/java-original.svg"></a><a><img title="swift" height="40" src="materials/swift.svg"></a></p>
-   <p><a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a><a><img title="netbeans" height="40" src="materials/netbeans.png"></a><a><img title="Visual Studio Code" height="40" src="materials/vscode.png"></a><a><img title="Microsoft Visual Studio" height="40" src="materials/visualstudio.png"></a><a><img title="InteliJ" height="40" src="materials/intellij.svg"></a><a><img title="Rider" height="40" src="materials/rider.png"></a><a><img title="CLion" height="40" src="materials/clion.svg"></a><a><img title="xcode" height="40" src="materials/xcode.png"></a></p>
-</pre>
+
+<p><a><img title="C++" height="40" src="materials/cpp.svg"></a><a><img title="C#" height="40" src="materials/cSharp.svg"></a><a><img title="HTML5" height="50" src="materials/html5.svg"></a><a><img title="CSS" height="55" src="materials/css.svg"></a><a><img title="Javascript" height="40" src="materials/js.svg"></a><a><img title="xml" height="40" src="materials/xml.svg"></a><a><img title="Java" height="40" src="materials/java-original.svg"></a><a><img title="swift" height="40" src="materials/swift.svg"></a></p>
+<p><a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a><a><img title="netbeans" height="40" src="materials/netbeans.png"></a><a><img title="Visual Studio Code" height="40" src="materials/vscode.png"></a><a><img title="Microsoft Visual Studio" height="40" src="materials/visualstudio.png"></a><a><img title="InteliJ" height="40" src="materials/intellij.svg"></a><a><img title="Rider" height="40" src="materials/rider.png"></a><a><img title="CLion" height="40" src="materials/clion.svg"></a><a><img title="xcode" height="40" src="materials/xcode.png"></a></p>
+<p><a><img title="GitHub" height="40" src="materials/github.svg"></a><a><img title="Git" height="40" src="materials/git-original.svg"></a><a><img title="homebrew" height="40" src="materials/homebrew.svg"></a><a><img title="terminal" height="40" src="materials/terminal.svg"></a><a><img title="linux" height="40" src="materials/linux.svg"></a></p>
+<p><a><img title="tSQL" height="50" src="materials/tsql.png"></a><a><img title="ssms" height="40" src="materials/ssms.png"></a></p>
 <br><br>
 </div>
-<p>
-  <a><img title="GitHub" height="40" src="materials/github.svg"></a>
-  <a><img title="Git" height="40" src="materials/git-original.svg"></a>
-  <a><img title="homebrew" height="40" src="materials/homebrew.svg"></a>
-  <a><img title="terminal" height="40" src="materials/terminal.svg"></a>
-  <a><img title="linux" height="40" src="materials/linux.svg"></a>
-</p>
-<p>
-  <a><img title="tSQL" height="50" src="materials/tsql.png"></a>
-  <a><img title="ssms" height="40" src="materials/ssms.png"></a>
-</p>
+
 <p>Want to learn</p>
 <p>
   <a><img title="GO" height="40" src="materials/go.svg"></a>

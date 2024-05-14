@@ -1,3 +1,8 @@
+<style>
+  a {
+    background: transparent;
+  }
+</style>
 
 <div class="header">
 <p align="center">
@@ -27,7 +32,7 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 
 ---
 
-<div class="whatIuse">
+<!-- <div class="whatIuse">
 <h2>
 <p> 
   <a><img title="C++" height="40" src="materials/cpp.svg"></a>
@@ -66,7 +71,7 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
   <a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a>
 </p>
 </h2>
-</div>
+</div> -->
 
 <!-- <p>
 /////////////////////////////////////////////////

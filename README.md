@@ -5,7 +5,7 @@
     <img src="materials/lk.png" alt="Lorena Kovacic" />
 </a>
 </p>
-<p style="text-align: center;">
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=D898F7&center=true&random=false&width=435&lines=Hola :3;Student+at+Algera+university;Studying+software+engineering;Interested in game development" alt="Typing SVG" /></a>
 </p>
 </div>
@@ -29,12 +29,11 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 
 <div class="whatIuse">
 <h2>
-
   <p> 
   <a><img title="C++" height="40" src="materials/cpp.svg"></a>
   <a><img title="C#" height="40" src="materials/cSharp.svg"></a>
-  <a><img title="HTML5" height="40" src="materials/html5.svg"></a>
-  <a><img title="CSS" height="40" src="materials/css.svg"></a>
+  <a><img title="HTML5" height="50" src="materials/html5.svg"></a>
+  <a><img title="CSS" height="55" src="materials/css.svg"></a>
   <a><img title="Javascript" height="40" src="materials/js.svg"></a>
   <a><img title="xml" height="40" src="materials/xml.svg"></a>
   <a><img title="Java" height="40" src="materials/java-original.svg"></a>
@@ -61,10 +60,8 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
   </p>
 
   <p>
-  <a><img title="tSQL" height="40" src="materials/tsql.svg"></a>
+  <a><img title="tSQL" height="50" src="materials/tsql.png"></a>
     <a><img title="ssms" height="40" src="materials/ssms.png"></a>
-<a><img title="JSON" height="40" src="materials/json.svg"></a>
-  </p>
 
   <p>Want to learn</p>
   <p>

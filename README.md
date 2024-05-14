@@ -78,12 +78,14 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 <br><br>
 </div>
 
-<div align="center">
-<br><br>
-<p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" /></p>
+<div class="whatIuse" align="center">
+<img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" /><br><br>
+<h3>Want to learn</h3>
 <p><a><img title="GO" height="40" src="materials/go.svg"></a><a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a></p>
 <br><br>
 </div>
+
+
 
 
 

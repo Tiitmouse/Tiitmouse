@@ -67,7 +67,7 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 </h2>
 </div> -->
 
-<div align="center">
+<div class="whatIuse" align="center">
 <img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
 <br><br>
 <p><a><img title="C++" height="40" src="materials/cpp.svg"></a><a><img title="C#" height="40" src="materials/cSharp.svg"></a><a><img title="HTML5" height="50" src="materials/html5.svg"></a><a><img title="CSS" height="55" src="materials/css.svg"></a><a><img title="Javascript" height="40" src="materials/js.svg"></a><a><img title="xml" height="40" src="materials/xml.svg"></a><a><img title="Java" height="40" src="materials/java-original.svg"></a><a><img title="swift" height="40" src="materials/swift.svg"></a></p>
@@ -77,13 +77,15 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 <br><br>
 </div>
 
-<p>Want to learn</p>
-<p>
-  <a><img title="GO" height="40" src="materials/go.svg"></a>
-  <a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a>
-</p>
+<div align="center">
+<br><br>
+<p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" /></p>
+<p><a><img title="GO" height="40" src="materials/go.svg"></a><a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a></p>
+<br><br>
+</div>
 
-<a href="https://github.com/Tiitmouse/"><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
+
+
 
 <!-- <p>
 /////////////////////////////////////////////////

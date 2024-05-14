@@ -1,3 +1,4 @@
+<!--**Tiitmouse/Tiitmouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. /!-->
 <div class="header">
 <p align="center">
   <a href="https://github.com/Tiitmouse">
@@ -87,35 +88,6 @@ I am a Software Engineer in my second year at Algebra University. So far, I have
 
 
 
-<!-- <p>
-/////////////////////////////////////////////////
-</p> -->
-
-
-<div class="stats">
-<h2 align="Center" style="color:#da99f7") > Stats </h2>
-  <div align=left>
-      <a href="https://github.com/Tiitmouse/">
-        <img height=350 width=450 align="left" src="https://github-readme-stats.vercel.app/api?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" />
-      </a>
-  </div>
-  <div align=center>
-      <a href="https://github.com/Tiitmouse/">
-        <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
-  </div>
-</div>
-
-<!-- <p>
 
 
 
-
-
-
-
-
-
-</p> -->
-
-<!--
-**Tiitmouse/Tiitmouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,0 +1,38 @@
+.round-border {
+  border-radius: 5rem;
+}
+
+.ongoing {
+  background-color: #8addff;
+  width: 220px;
+}
+
+.finished {
+  background-color: #c792e9;
+  width: 95px;
+}
+
+img {
+  margin-top: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  li p {
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-family: Fira Code;
+    font-weight: 900;
+  }
+  li {
+    float: left;
+  }
+  

@@ -14,7 +14,7 @@
 
 <div class="aboutMe">
 <p>
-I am a Software Engineer in my second year at Algebra University. So far, I have been working in C++, C#, and Java. In each, I have completed small projects. At the moment, I am working on 4 medium projects, which repositories are listed below. I am looking for job or student internships that involve game development, with a primary focus on C++ or C#. 
+I am a Software Engineer in my third year at Algebra University. So far, I have been working in C++, C#, and Java. In each, I have completed small projects. At the moment, I am working on 4 medium projects, which repositories are listed below. I am looking for job or student internships that involve game development, with a primary focus on C++ or C#. 
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/lorena-kova%C4%8Di%C4%87/"><img title="Linkedin" height="25" src="materials/linkedin.svg"></a>

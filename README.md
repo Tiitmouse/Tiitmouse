@@ -14,74 +14,60 @@
 
 <div class="aboutMe">
 <p>
-I am a Software Engineer in my third year at Algebra University. So far, I have been working in C++, C#, and Java. In each, I have completed small projects. At the moment, I am working on 4 medium projects, which repositories are listed below. I am looking for job or student internships that involve game development, with a primary focus on C++ or C#. 
+Hi, I'm Lorena Kovačić (aka Tiitmouse) ~ Software Engineering student at Algebra University in Croatia, specializing in backend, full-stack development, and data management.
+
+About Me
+
+- 3rd-year Software Engineering student with a strong foundation in backend and frontend development.
+- Proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js, WordPress).
+- Familiar with Git, GitHub, Bitbucket, and modern software development methodologies.
+-  Below, you can find my projects in C++, Java, and Swift.
+- Currently focused on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL).
+- Self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch.
+
+Looking For
+
+- A student job, internship, or junior role in backend/full-stack development or data-focused software engineering.
+- Collaborations on exciting projects in C#, .NET, Java, or Swift.
+
+Focus Areas & Future Plans
+
+- currently most interested in C and C++ development.
+- exploring systems programming, algorithm optimization, and performance-focused coding.
+- beginning to work on a unique interactive system involving real-time processing, hardware integration, and efficient communication between multiple components.
+
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/lorena-kova%C4%8Di%C4%87/"><img title="Linkedin" height="25" src="materials/linkedin.svg"></a>
-<a href="mailto:lkovac4@algebra.hr"><img title="Mail" height="25" src="materials/mail.svg"></a>
-<a href=""><img title="Discord" height="25" src="materials/discord.svg"></a>
-<a href="https://open.spotify.com/user/qrrnk4smcl81se6vsuepljiar?si=388a94be0e734741"><img title="Spotify" height="25" src="materials/spotify.svg"></a>
-<a href="https://steamcommunity.com/profiles/76561198799326612/"><img title="Steam" height="25" src="materials/steam.svg"></a>
+<a href="https://www.linkedin.com/in/lorena-kova%C4%8Di%C4%87/"><img title="Linkedin" height="35" src="materials/linkedin.svg"></a>
+<a href="mailto:lkovac4@algebra.hr"><img title="Mail" height="35" src="materials/mail.svg"></a>
+<a href=""><img title="Discord" height="35" src="materials/discord.svg"></a>
+<a href="https://open.spotify.com/user/qrrnk4smcl81se6vsuepljiar?si=388a94be0e734741"><img title="Spotify" height="35" src="materials/spotify.svg"></a>
+<a href="https://steamcommunity.com/profiles/76561198799326612/"><img title="Steam" height="35" src="materials/steam.svg"></a>
 </p>
 </div>
 
 ---
 
-<!-- <div class="whatIuse">
-<h2>
-<p> 
-  <a><img title="C++" height="40" src="materials/cpp.svg"></a>
-  <a><img title="C#" height="40" src="materials/cSharp.svg"></a>
-  <a><img title="HTML5" height="50" src="materials/html5.svg"></a>
-  <a><img title="CSS" height="55" src="materials/css.svg"></a>
-  <a><img title="Javascript" height="40" src="materials/js.svg"></a>
-  <a><img title="xml" height="40" src="materials/xml.svg"></a>
-  <a><img title="Java" height="40" src="materials/java-original.svg"></a>
-  <a><img title="swift" height="40" src="materials/swift.svg"></a>
-</p>
-<p>
-  <a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a>
-  <a><img title="netbeans" height="40" src="materials/netbeans.png"></a>
-  <a><img title="Visual Studio Code" height="40" src="materials/vscode.png"></a>
-  <a><img title="Microsoft Visual Studio" height="40" src="materials/visualstudio.png"></a>
-  <a><img title="InteliJ" height="40" src="materials/intellij.svg"></a>
-  <a><img title="Rider" height="40" src="materials/rider.png"></a>
-  <a><img title="CLion" height="40" src="materials/clion.svg"></a>
-  <a><img title="xcode" height="40" src="materials/xcode.png"></a>
-</p>
-<p>
-  <a><img title="GitHub" height="40" src="materials/github.svg"></a>
-  <a><img title="Git" height="40" src="materials/git-original.svg"></a>
-  <a><img title="homebrew" height="40" src="materials/homebrew.svg"></a>
-  <a><img title="terminal" height="40" src="materials/terminal.svg"></a>
-  <a><img title="linux" height="40" src="materials/linux.svg"></a>
-</p>
-<p>
-  <a><img title="tSQL" height="50" src="materials/tsql.png"></a>
-  <a><img title="ssms" height="40" src="materials/ssms.png"></a>
-</p>
-<p>Want to learn</p>
-<p>
-  <a><img title="GO" height="40" src="materials/go.svg"></a>
-  <a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a>
-</p>
-</h2>
-</div> -->
 <div class="whatIuse" >
 <div align="center">
 <img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
 <br><br>
-<p><a><img title="C++" height="40" src="materials/cpp.svg"></a>&nbsp;&nbsp;<a><img title="C#" height="40" src="materials/cSharp.svg"></a><a><img title="HTML5" height="40" src="materials/html.svg"></a><a><img title="CSS" height="40" src="materials/css.svg"></a><a><img title="Javascript" height="40" src="materials/js.png"></a><a><img title="xml" height="40" src="materials/xml.svg"></a><a><img title="Java" height="40" src="materials/java-original.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="swift" height="40" src="materials/swift.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a></p>
+
+<!-- <p><a><img title="C++" height="40" src="materials/cpp.svg"></a>&nbsp;&nbsp;<a><img title="C#" height="40" src="materials/cSharp.svg"></a><a><img title="HTML5" height="40" src="materials/html.svg"></a><a><img title="CSS" height="40" src="materials/css.svg"></a><a><img title="Javascript" height="40" src="materials/js.png"></a><a><img title="xml" height="40" src="materials/xml.svg"></a><a><img title="Java" height="40" src="materials/java-original.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="swift" height="40" src="materials/swift.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a></p>
 <p><a><img title="blender" height="40" src="materials/blender.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="netbeans" height="40" src="materials/netbeans.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="Visual Studio Code" height="40" src="materials/vscode.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="Microsoft Visual Studio" height="40" src="materials/visualstudio.png"></a>&nbsp;&nbsp;<a><img title="InteliJ" height="40" src="materials/intellij.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="Rider" height="40" src="materials/rider.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="CLion" height="40" src="materials/clion.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="xcode" height="40" src="materials/xcode.png"></a></p>
 <p><a><img title="GitHub" height="40" src="materials/github.svg"></a>&nbsp;&nbsp;<a><img title="Git" height="40" src="materials/git-original.svg"></a><a><img title="homebrew" height="40" src="materials/homebrew.svg"></a><a><img title="terminal" height="40" src="materials/terminal.png"></a><a><img title="linux" height="40" src="materials/linux.svg"></a></p>
-<p><a><img title="tSQL" height="50" src="materials/tsql.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="ssms" height="40" src="materials/ssms.png"></a></p>
+<p><a><img title="tSQL" height="50" src="materials/tsql.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="ssms" height="40" src="materials/ssms.png"></a></p> -->
+
 <br><br>
 </div>
 <div class="whatIuse" align="center">
-<img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" /><br><br>
+<img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
+
+<!-- <br><br>
 <h3>Want to learn</h3>
 <p><a><img title="GO" height="40" src="materials/go.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="Kotlin" height="40" src="materials/kotlin.svg"></a><a><img title="unity" height="40" src="materials/unity.png"></a>&nbsp;&nbsp;&nbsp;<a><img title=".NetCore" height="40" src="materials/unreal-engine.png"></a></p>
-<br><br>
+<br><br> -->
+
 </div>
 </div>
 

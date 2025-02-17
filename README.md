@@ -21,7 +21,7 @@ About Me
 - 3rd-year Software Engineering student with a strong foundation in backend and frontend development.
 - Proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js, WordPress).
 - Familiar with Git, GitHub, Bitbucket, and modern software development methodologies.
--  Below, you can find my projects in C++, Java, and Swift.
+- Below, you can find my projects in C++, Java, and Swift.
 - Currently focused on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL).
 - Self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch.
 
@@ -35,7 +35,7 @@ Focus Areas & Future Plans
 - currently most interested in C and C++ development.
 - exploring systems programming, algorithm optimization, and performance-focused coding.
 - beginning to work on a unique interactive system involving real-time processing, hardware integration, and efficient communication between multiple components.
-
+<div class="contactMe">
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/lorena-kova%C4%8Di%C4%87/"><img title="Linkedin" height="35" src="materials/linkedin.svg"></a>
@@ -45,13 +45,23 @@ Focus Areas & Future Plans
 <a href="https://steamcommunity.com/profiles/76561198799326612/"><img title="Steam" height="35" src="materials/steam.svg"></a>
 </p>
 </div>
+</div>
 
----
-
-<div class="whatIuse" >
 <div align="center">
-<img height=350 width=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-<br><br>
+<table>
+  <tr>
+    <td>
+      <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+    <td>
+      <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+<img width="90%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tiitmouse&bg_color=060a0f&color=d2a7ee&line=98e3ff&point=d2a7ee&hide_border=true" />
+
+</div>
+
 
 <!-- <p><a><img title="C++" height="40" src="materials/cpp.svg"></a>&nbsp;&nbsp;<a><img title="C#" height="40" src="materials/cSharp.svg"></a><a><img title="HTML5" height="40" src="materials/html.svg"></a><a><img title="CSS" height="40" src="materials/css.svg"></a><a><img title="Javascript" height="40" src="materials/js.png"></a><a><img title="xml" height="40" src="materials/xml.svg"></a><a><img title="Java" height="40" src="materials/java-original.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="swift" height="40" src="materials/swift.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title=".NetCore" height="40" src="materials/dotnetcore.svg"></a></p>
 <p><a><img title="blender" height="40" src="materials/blender.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="netbeans" height="40" src="materials/netbeans.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="Visual Studio Code" height="40" src="materials/vscode.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="Microsoft Visual Studio" height="40" src="materials/visualstudio.png"></a>&nbsp;&nbsp;<a><img title="InteliJ" height="40" src="materials/intellij.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="Rider" height="40" src="materials/rider.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="CLion" height="40" src="materials/clion.svg"></a>&nbsp;&nbsp;&nbsp;<a><img title="xcode" height="40" src="materials/xcode.png"></a></p>
@@ -59,6 +69,7 @@ Focus Areas & Future Plans
 <p><a><img title="tSQL" height="50" src="materials/tsql.png"></a>&nbsp;&nbsp;&nbsp;<a><img title="ssms" height="40" src="materials/ssms.png"></a></p> -->
 
 <br><br>
+
 </div>
 <div class="whatIuse" align="center">
 <img height=200 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
@@ -78,6 +89,7 @@ Focus Areas & Future Plans
 </div>
 
 ---
+
 <div class="myRepo" align="center">
 <h3 align="center">My repositories</h3>
 
@@ -97,9 +109,5 @@ Focus Areas & Future Plans
 </div>
 
 </div>
-
-
-
-
 
 

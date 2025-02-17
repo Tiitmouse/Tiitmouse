@@ -50,21 +50,22 @@ Focus Areas & Future Plans
 ---
 
 <div align="center">
-<table>
-  <tr>
-    <td valign="middle">
-      <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-    </td>
-    <td valign="middle">
-      <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+
+<p style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <span>
+    <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+  </span>
+  <span style="display: flex; align-items: center;">
+    <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
+  </span>
+</p>
+
 <p>
   <img width="90%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tiitmouse&bg_color=060a0f&color=d2a7ee&line=98e3ff&point=d2a7ee&hide_border=true" />
 </p>
 
 </div>
+
 
 
 ---

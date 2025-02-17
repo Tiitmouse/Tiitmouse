@@ -51,22 +51,14 @@ Focus Areas & Future Plans
 
 <div align="center">
 
+<p>
+  <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
+  <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
+</p>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    
-  <div style="display: inline-block;">
-      <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-    </div>
-
-  <div style="display: inline-block;">
-      <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
-    </div>
-
-  </div>
-
-  <div>
-    <img width="90%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tiitmouse&bg_color=060a0f&color=d2a7ee&line=98e3ff&point=d2a7ee&hide_border=true" />
-  </div>
+<p>
+  <img width="90%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tiitmouse&bg_color=060a0f&color=d2a7ee&line=98e3ff&point=d2a7ee&hide_border=true" />
+</p>
 
 </div>
 

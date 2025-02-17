@@ -55,12 +55,12 @@ Focus Areas & Future Plans
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     
     <!-- Most Used Languages -->
-    <div style="display: inline-block;">
+  <div style="display: inline-block;">
       <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
     </div>
 
     <!-- Contributions -->
-    <div style="display: inline-block;">
+  <div style="display: inline-block;">
       <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
     </div>
 

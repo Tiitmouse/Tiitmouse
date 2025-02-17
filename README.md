@@ -50,7 +50,7 @@ Focus Areas & Future Plans
 ---
 
 <div align="center">
-<table>
+<table style="border:none;">
   <tr>
     <td>
       <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />

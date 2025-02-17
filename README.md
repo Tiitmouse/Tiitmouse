@@ -50,12 +50,12 @@ Focus Areas & Future Plans
 ---
 
 <div align="center">
-<table style="border:none;">
-  <tr>
-    <td style="border:none;">
+<table border="none">
+  <tr border="none">
+    <td border="none">
       <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
     </td>
-    <td style="border:none;">
+    <td border="none">
       <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
     </td>
   </tr>

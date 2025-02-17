@@ -18,17 +18,18 @@ Hi, I'm Lorena Kovačić (aka Tiitmouse) ~ Software Engineering student at Algeb
 
 About Me
 
-- 3rd-year Software Engineering student with a strong foundation in backend and frontend development.
-- Proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js, WordPress).
-- Familiar with Git, GitHub, Bitbucket, and modern software development methodologies.
-- Below, you can find my projects in C++, Java, and Swift.
-- Currently focused on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL).
-- Self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch.
+- 3rd-year Software Engineering student with a strong foundation in backend and frontend development
+- proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js, WordPress)
+- familiar with Git, GitHub, Bitbucket, and modern software development methodologies
+- below, you can find my projects in C++, Java, and Swift
+- currently focused on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL)
+- self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch
+- primarily work in a macOS environment, utilizing Homebrew and Oh My Zsh
 
 Looking For
 
-- A student job, internship, or junior role in backend/full-stack development or data-focused software engineering.
-- Collaborations on exciting projects in C#, .NET, Java, or Swift.
+- a student job, internship, or junior role in backend/full-stack development or data-focused software engineering.
+- collaborations on exciting projects in similar fields.
 
 Focus Areas & Future Plans
 

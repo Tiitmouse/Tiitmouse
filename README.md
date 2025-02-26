@@ -22,19 +22,18 @@ About Me
 - proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js, WordPress)
 - familiar with Git, GitHub, Bitbucket, and modern software development methodologies
 - below, you can find my projects in C++, Java, and Swift
-- currently focused on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL)
+- currently mostly working on projects based on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL)
 - self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch
 - primarily work in a macOS environment, utilizing Homebrew and Oh My Zsh
 
 Looking For
 
-- a student job, internship, or junior role in backend/full-stack development or data-focused software engineering.
+- a student job, internship, or junior role in backend/full-stack development software engineering.
 - collaborations on exciting projects in similar fields.
 
 Focus Areas & Future Plans
 
-- currently most interested in C and C++ development.
-- exploring systems programming, algorithm optimization, and performance-focused coding.
+- currently most interested in C and C++ development and exploring systems programming
 - beginning to work on a unique interactive system involving real-time processing, hardware integration, and efficient communication between multiple components.
 <div class="contactMe">
 </p>

@@ -19,5 +19,5 @@ jobs:
       - name: Generate Snake Game from GitHub Contribution Grid
         uses: platane/snk@v2
         with:
-          github_user: tiitmouse
+          github_user: Tiitmouse
 

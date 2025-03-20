@@ -48,7 +48,7 @@ Focus Areas & Future Plans
 </div>
 
 <div>
-![Snake Game](https://github.com/tiitmouse/tiitmouse/workflows/Generate%20Snake%20Game/badge.svg)
+![Snake Game](https://github.com/Tiitmouse/Tiitmouse/workflows/Generate%20Snake%20Game/badge.svg)
 </div>
 ---
 

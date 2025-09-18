@@ -18,23 +18,24 @@ Hi, I'm Lorena Kovačić (aka Tiitmouse) ~ Software Engineering student at Algeb
 
 About Me
 
-- 3rd-year Software Engineering student with a strong foundation in backend and frontend development
-- proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js, WordPress)
-- familiar with Git, GitHub, Bitbucket, and modern software development methodologies
-- below, you can find my projects in C++, Java, and Swift
-- currently mostly working on projects based on building scalable web applications using ASP.NET Core, Entity Framework, and databases (MongoDB, T-SQL)
+- Final year Software Engineering student with a strong foundation in backend and frontend development
+- proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js/ts)
+- recently most of the projects made in go and vue, wails present
+- familiar with Git, GitHub, GitLab, Bitbucket, and modern software development methodologies
+- below, you can find my projects done thruough my course
 - self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch
 - primarily work in a macOS environment, utilizing Homebrew and Oh My Zsh
+- desktop running Manjaro with Hyprland (dotfiles comming soon)
 
 Looking For
 
-- a student job, internship, or junior role in backend/full-stack development software engineering.
-- collaborations on exciting projects in similar fields.
+- a student job, internship, or junior role in backend/full-stack development software engineering
+- collaborations on exciting projects in similar fields
 
 Focus Areas & Future Plans
 
 - currently most interested in C and C++ development and exploring systems programming
-- beginning to work on a unique interactive system involving real-time processing, hardware integration, and efficient communication between multiple components.
+- beginning to work on a unique interactive system involving real-time processing, hardware integration, and efficient communication between multiple components
 <div class="contactMe">
 </p>
 <p align="center">

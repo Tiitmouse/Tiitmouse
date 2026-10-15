@@ -14,7 +14,6 @@ jobs:
           user: Tiitmouse
           template: classic
           base: header, activity, community, repositories, metadata
-          config_theme: dark
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes

@@ -12,11 +12,7 @@
 
 
 <p align="center">
-  <img src="./github-metrics-fastfetch.svg" alt="Fastfetch Stats" width="880" />
-</p>
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="./github-metrics-aboutme.svg" alt="About Me" width="570" height="360" />
-  <img src="./github-metrics-languages.svg" alt="Languages Breakdown" width="300" height="360" />
+  <img src="./github-metrics-terminal.svg" alt="Terminal Workspace" width="880" />
 </p>
 
 ---

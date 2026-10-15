@@ -10,40 +10,18 @@
 </p>
 </div>
 
----
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img src="./github-metrics-fastfetch.svg" alt="Fastfetch Stats" width="880" />
+</p>
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="./github-metrics-aboutme.svg" alt="About Me" width="570" height="360" />
+  <img src="./github-metrics-languages.svg" alt="Languages Breakdown" width="300" height="360" />
 </p>
 
 ---
 
-<div class="aboutMe">
-<p>
-Hi, I'm Lorena Kovačić (aka Tiitmouse) ~ Software Engineering student at Algebra University in Croatia, specializing in backend, full-stack development, and data management.
-
-About Me
-
-- Final year Software Engineering student with a strong foundation in backend and frontend development
-- proficient in C#, with experience in web development (HTML, CSS, JavaScript, PHP, Vue.js/ts)
-- recently most of the projects made in go and vue, wails present
-- familiar with Git, GitHub, GitLab, Bitbucket, and modern software development methodologies
-- below, you can find my projects done thruough my course
-- self-taught in UI/UX design tools, including Adobe Illustrator, Photoshop, After Effects, Premiere Pro, Blender, and Sketch
-- primarily work in a macOS environment, utilizing Homebrew and Oh My Zsh
-- desktop running Manjaro with Hyprland (dotfiles comming soon)
-
-Looking For
-
-- a student job, internship, or junior role in backend/full-stack development software engineering
-- collaborations on exciting projects in similar fields
-
-Focus Areas & Future Plans
-
-- currently most interested in C and C++ development and exploring systems programming
-- beginning to work on a unique interactive system involving real-time processing, hardware integration, and efficient communication between multiple components
 <div class="contactMe">
-</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/lorena-kova%C4%8Di%C4%87/"><img title="Linkedin" height="35" src="materials/linkedin.svg"></a>
 <a href="mailto:lkovac4@algebra.hr"><img title="Mail" height="35" src="materials/mail.svg"></a>
@@ -52,24 +30,7 @@ Focus Areas & Future Plans
 <a href="https://steamcommunity.com/profiles/76561198799326612/"><img title="Steam" height="35" src="materials/steam.svg"></a>
 </p>
 </div>
-</div>
 
-
----
-
-<div align="center">
-
-<p style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <span>
-    <img height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiitmouse&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" />
-  </span>
-  <span style="display: flex; align-items: center;">
-    <img height="250" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" />
-  </span>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiitmouse&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p>
-  <img width="90%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tiitmouse&bg_color=060a0f&color=d2a7ee&line=98e3ff&point=d2a7ee&hide_border=true" />
-</p>
-
-</div>
